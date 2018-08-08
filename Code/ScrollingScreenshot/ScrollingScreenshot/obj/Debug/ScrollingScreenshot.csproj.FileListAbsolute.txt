@@ -1,0 +1,6 @@
+C:\Users\vinaym\source\repos\ScrollingScreenshot\ScrollingScreenshot\bin\Debug\ScrollingScreenshot.dll
+C:\Users\vinaym\source\repos\ScrollingScreenshot\ScrollingScreenshot\bin\Debug\ScrollingScreenshot.pdb
+C:\Users\vinaym\source\repos\ScrollingScreenshot\ScrollingScreenshot\obj\Debug\ScrollingScreenshot.csprojResolveAssemblyReference.cache
+C:\Users\vinaym\source\repos\ScrollingScreenshot\ScrollingScreenshot\obj\Debug\ScrollingScreenshot.csproj.CoreCompileInputs.cache
+C:\Users\vinaym\source\repos\ScrollingScreenshot\ScrollingScreenshot\obj\Debug\ScrollingScreenshot.dll
+C:\Users\vinaym\source\repos\ScrollingScreenshot\ScrollingScreenshot\obj\Debug\ScrollingScreenshot.pdb
