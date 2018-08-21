@@ -2,7 +2,8 @@ This file contains instructions on how to set up your environment to work with t
 
 Necessary Softwares:
 
-    Microsoft Visual Studio Community Edition(.Net framework 4.6) It is used to develop/debug the source code.
+    Microsoft Visual Studio Community Edition(.Net framework 4.6) 
+    It is used to develop/debug the source code.
 
 Running the tests:
 
